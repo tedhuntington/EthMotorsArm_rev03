@@ -1,2 +1,2 @@
-# EthMotorsArm_rev03
-EthMotorsArm PCB firmware rev3
+# EthMotorsArm_rev02
+Firmware for EthMotorsArm_rev02 PCB, uses ATSAME53N20
